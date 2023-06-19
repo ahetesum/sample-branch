@@ -12,3 +12,26 @@ priyanka-branch
 
 
 DMS-11 changeds
+
+
+Sadad Informatics Corporation
+
+
+
+ROLES:
+
+DEALER:
+MMANGR:
+{
+-mobile
+-email
+-role (DEALER|MMANGR)
+-userDetail:
+	-firstName
+	-lastName
+	-type(kirana|mart|outlet)
+	-pan
+	-gst
+	-address
+	-dealerId
+}
